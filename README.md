@@ -1,5 +1,8 @@
 # FlowerDex
 
+https://devpost.com/software/flowerdex
+
+#How to Use
 Clone Repo
 
 In backend folder create virtual environment.
